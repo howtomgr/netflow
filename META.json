@@ -1,0 +1,61 @@
+{
+  "category": "network-monitoring",
+  "created_date": "2025-09-15T22:48:58.375715",
+  "default_ports": [
+    80,
+    443,
+    9995
+  ],
+  "dependencies": [],
+  "description": "netflow is a free and open-source flow collection. nfdump provides NetFlow collection and processing",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/network-monitoring/netflow",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/network-monitoring/netflow",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.375733",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "netflow",
+  "repository_url": "https://github.com/howtomgr/netflow",
+  "spec_version": "2.0",
+  "subcategory": "network-monitoring",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "network-monitoring",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "netflow Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/network-monitoring/netflow"
+}
